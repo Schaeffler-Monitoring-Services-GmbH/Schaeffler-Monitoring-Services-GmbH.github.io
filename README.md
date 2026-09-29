@@ -24,6 +24,17 @@ The Pages site requires a repository named exactly `<org>.github.io`, i.e.
 - Content mirrors `.github/profile/README.md` so the org profile on GitHub and
   the Pages site do not drift apart.
 
+## Related sites
+
+| Site | |
+|---|---|
+| [Schaeffler Lifetime Solutions](https://sls-cdn.schaeffler-iot.com/) |
+| [OPTIME](https://schaeffler-optime.io/) |
+| [GitHub organization](https://github.com/Schaeffler-Monitoring-Services-GmbH) |
+
+These are cross-referenced from the landing page and from the organization
+defaults in the `.github` repository, so the four places stay in sync.
+
 ## Publishing
 
 Use `../scripts/setup-org-pages.sh` (idempotent, prints `[ok]`/`[FAIL]` per step).
