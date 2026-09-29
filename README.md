@@ -29,6 +29,7 @@ The Pages site requires a repository named exactly `<org>.github.io`, i.e.
 | Site | |
 |---|---|
 | [Schaeffler Lifetime Solutions](https://sls-cdn.schaeffler-iot.com/) |
+| [Technical support](https://medias.schaeffler.de/en/lifetime-solutions/technical-support) — products, hardware and OPTIME Digital Service |
 | [OPTIME](https://schaeffler-optime.io/) |
 | [GitHub organization](https://github.com/Schaeffler-Monitoring-Services-GmbH) |
 
